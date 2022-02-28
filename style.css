@@ -1,0 +1,23 @@
+.this{
+    color: rgb(58, 58, 197);
+}
+
+.section{
+color: white;
+background-color: rgb(81, 39, 219);
+height: 200px;
+
+}
+
+.btn {
+   background-color:blue; 
+   text-align: center;
+   ;margin-left: 35%;
+
+ border-radius: 20%;
+ pointer-events: auto;
+}
+.a{
+  text-underline-position:auto;  
+}
+
